@@ -61,12 +61,12 @@ mybatis-plus:
     call-setters-on-nulls: true
 
 aliyun:
-  accessKeyId: LTAI5tKrs1E7uhzmzkoXrkoX
-  accessKeySecret: hyFTTgICfyfIZxQ6Wb96a5JE1uiCgR
-  bucketName: chos7n1
+  accessKeyId: 7
+  accessKeySecret: 7
+  bucketName: 7
   endPoint: oss-cn-hangzhou.aliyuncs.com
   fileHost: dream
-  urlPrefix: http://chos7n1.oss-cn-hangzhou.aliyuncs.com/
+  urlPrefix: 7
 
 
 
